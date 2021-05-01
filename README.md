@@ -2,6 +2,7 @@
 All the Credits goes to Google.
 
 Used this Google Api Python to train my skills and to semi automatize a common activity at work.
+All the files are updated and I let available the Sheet2Slide.py File
 
 With that I was able to take data (table and chart) from my sheet and create a new Google Slide Presentation.
 
